@@ -1,0 +1,6 @@
+{
+  "name": "دفتر الحسابات",
+  "description": "تطبيق متكامل لمتابعة المصاريف والديون مع دعم المزامنة والنسخ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
